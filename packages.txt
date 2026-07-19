@@ -1,0 +1,2 @@
+# No system-level (apt) packages are required for this app.
+# Kept as a placeholder in case future image-processing dependencies need one.
